@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on April 4, 2023 at 1:50 pm by All in One SEO v4.3.4.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/contact/]]></loc>
+		<lastmod><![CDATA[2021-12-06T14:52:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/privacy-policy/]]></loc>
+		<lastmod><![CDATA[2021-12-06T14:50:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/sample-page/]]></loc>
+		<lastmod><![CDATA[2021-12-06T14:48:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>
